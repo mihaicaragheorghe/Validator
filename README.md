@@ -26,7 +26,7 @@ This will return a `ValidationResult` object, which contains two properties, `Is
 ``` json
 {
     "isValid": false,
-    "errors: [
+    "errors": [
         {
             "code": "User.Invalid",
             "message": "User is invalid"
